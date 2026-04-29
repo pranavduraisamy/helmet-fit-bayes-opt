@@ -205,3 +205,30 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# LSDyna Temp files
+*lspost.db
+*lspost.msg
+*lspost.cfile
+*lsrunid
+*d3plot*
+*d3dump*
+*d3hsp*
+*deforc
+*glstat
+*group_file
+*jntforc
+*lsruncommand.bat
+*matsum
+*messag
+*qrun.inf
+*rcforc
+*rwforc
+*sleout
+*status.out
+*nodout
+*secforc
+
+# Excluding specific Dyna files for sharing my results
+!model-validation/h3-lateral-wo-helmet/nodout
+!model-validation/h3-frontal-helmet/nodout
