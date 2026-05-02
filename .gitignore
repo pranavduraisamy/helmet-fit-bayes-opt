@@ -228,6 +228,7 @@ __marimo__/
 *status.out
 *nodout
 *secforc
+*.ansa*
 
 # Excluding specific Dyna files for sharing my results
 !model-validation/h3-lateral-wo-helmet/nodout
