@@ -1,9 +1,9 @@
 $# LS-DYNA Keyword file created by LS-PrePost(R) 2026 R1 (v4.13.5) - 06Feb2026
-$# Created on May-2-2026 (22:22:19)
+$# Created on May-2-2026 (23:05:25)
 *KEYWORD
 *PARAMETER
 $#   prmr1      val1     prmr2      val2     prmr3      val3     prmr4      val4
 R scale   1.0                                                                   
 R rotate  0.0                                                                   
-R slack  -1.0                                                                   
+R slack   -1.0                                                                  
 *END
