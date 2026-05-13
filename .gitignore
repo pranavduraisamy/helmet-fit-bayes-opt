@@ -233,3 +233,6 @@ __marimo__/
 # Excluding specific Dyna files for sharing my results
 !model-validation/h3-lateral-wo-helmet/nodout
 !model-validation/h3-frontal-helmet/nodout
+!bo-runs/*/drop/nodout
+!bo-runs/*/pendulum/nodout
+!bo-runs/*/pendulum/secforc
