@@ -1,0 +1,2248 @@
+ LSTC 50th% Full_FE H-III Dummy (Beta Version, February 17, 2019)        
+                    ls-dyna smp s R16 R16.0_619_d222963 date 03/18/2025
+
+{BEGIN LEGEND}
+ Entity #        Title
+    22626                                                                                     
+{END LEGEND}
+
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p       1                              ( at time 0.0000000E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 4.65938E+00-2.81908E+01-4.49817E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p       1                              ( at time 0.0000000E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626  0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00 0.00000E+00
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     201                              ( at time 9.9989993E-02 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.73645E-07 1.73608E-06-5.34270E-05 4.19789E-05 2.55538E-04-1.46811E-03 4.19831E-04 2.55563E-03-1.46826E-02 4.65938E+00-2.81908E+01-4.49818E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     201                              ( at time 9.9989993E-02 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.99068E-08-8.39161E-09-5.46556E-09-5.86959E-06-9.70445E-07-9.27665E-07-5.87018E-05-9.70542E-06-9.27758E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     401                              ( at time 1.9997999E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.73128E-05 3.61718E-04-6.67556E-04 3.11919E-05 7.80973E-03-1.21513E-02-1.07881E-04 7.55495E-02-1.06843E-01 4.65939E+00-2.81905E+01-4.49824E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     401                              ( at time 1.9997999E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.82053E-06-3.37334E-07-3.34728E-07-3.94091E-05-1.77332E-06-2.30078E-06-3.35428E-04-8.02951E-06-1.37325E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     601                              ( at time 2.9996998E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.73925E-05 1.23956E-03-2.33778E-03 4.21180E-04 8.43759E-03-1.92389E-02 3.90027E-03 6.27919E-03-7.08830E-02 4.65940E+00-2.81896E+01-4.49841E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     601                              ( at time 2.9996998E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.39371E-06-3.90697E-07-6.42344E-07-1.55711E-05-5.49275E-06-6.70851E-06 2.38403E-04-3.71980E-05-4.40817E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     801                              ( at time 3.9995997E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.60495E-05 2.16100E-03-4.28060E-03-3.15188E-04 1.07342E-02-2.10684E-02-7.36441E-03 2.29681E-02-1.82963E-02 4.65940E+00-2.81887E+01-4.49860E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p     801                              ( at time 3.9995997E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.63547E-06-1.25182E-06-9.83269E-07-4.49356E-05-6.19373E-06-1.49234E-06-2.93674E-04-7.01054E-06 5.21668E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1001                              ( at time 4.9994997E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.04734E-06 3.43407E-03-6.73924E-03-2.37267E-04 1.41196E-02-2.86476E-02 7.79287E-04 3.38575E-02-7.58000E-02 4.65938E+00-2.81874E+01-4.49885E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1001                              ( at time 4.9994997E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.35967E-05-1.17138E-06-9.54482E-07-8.46364E-05 3.19815E-06 4.10780E-06-3.97048E-04 9.39282E-05 5.60070E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1201                              ( at time 5.9993996E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.09025E-06 5.00035E-03-9.69782E-03 4.07978E-05 1.65268E-02-3.07772E-02 2.78093E-03 2.40743E-02-2.12978E-02 4.65937E+00-2.81858E+01-4.49914E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1201                              ( at time 5.9993996E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.04706E-05-8.96804E-07-9.74870E-07-6.14044E-05 3.59620E-06-2.42289E-06 2.32343E-04 3.98099E-06-6.53134E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1401                              ( at time 6.9992995E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -5.00133E-05 6.81389E-03-1.31192E-02-4.61416E-04 1.93386E-02-3.84770E-02-5.02264E-03 2.81214E-02-7.70060E-02 4.65933E+00-2.81840E+01-4.49948E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1401                              ( at time 6.9992995E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.67256E-05-9.70258E-07-7.21540E-07-7.49232E-05-5.71088E-07 2.73457E-06-1.35202E-04-4.16771E-05 5.15798E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1601                              ( at time 7.9991994E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -7.60548E-05 8.90767E-03-1.73426E-02-4.61529E-04 2.16299E-02-4.41972E-02-1.12789E-06 2.29145E-02-5.72077E-02 4.65930E+00-2.81819E+01-4.49991E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1601                              ( at time 7.9991994E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.54372E-05-1.05608E-06-7.63498E-07-9.87493E-05-6.30436E-06-5.98883E-07-2.38285E-04-5.73384E-05-3.33379E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1801                              ( at time 8.9990994E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.08453E-04 1.11068E-02-2.17490E-02-2.37063E-04 2.31896E-02-4.40828E-02 2.24489E-03 1.55993E-02 1.14385E-03 4.65927E+00-2.81797E+01-4.50035E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    1801                              ( at time 8.9990994E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.47418E-05-1.34813E-06-1.06513E-06-9.36069E-05-9.70435E-07-4.91672E-06 5.14295E-05 5.33446E-05-4.31827E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2001                              ( at time 9.9989993E-01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.36573E-04 1.35386E-02-2.62996E-02 7.30654E-05 2.52146E-02-4.77320E-02 3.10159E-03 2.02516E-02-3.64954E-02 4.65924E+00-2.81773E+01-4.50080E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2001                              ( at time 9.9989993E-01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.51188E-05-1.69084E-06-1.54780E-06-1.21131E-04-3.72037E-06-1.01542E-05-2.75265E-04-2.75020E-05-5.23805E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2201                              ( at time 1.0998899E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.23444E-04 1.61401E-02-3.13554E-02-2.97054E-05 2.73380E-02-5.30031E-02-1.02781E-03 2.12368E-02-5.27164E-02 4.65925E+00-2.81747E+01-4.50131E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2201                              ( at time 1.0998899E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.78645E-05-2.59012E-06-2.74483E-06-1.22744E-04-1.78670E-05-1.26271E-05-1.61366E-05-1.41480E-04-2.47311E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2401                              ( at time 1.1998799E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.12402E-04 1.88991E-02-3.68745E-02 2.29279E-04 2.81768E-02-5.70586E-02 2.59010E-03 8.38852E-03-4.05589E-02 4.65926E+00-2.81719E+01-4.50186E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2401                              ( at time 1.1998799E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.01400E-05-4.38362E-06-4.18078E-06-1.26597E-04-1.98142E-05-1.53586E-05-3.85337E-05-1.94741E-05-2.73178E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2601                              ( at time 1.2998699E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.05752E-04 2.18147E-02-4.26823E-02 2.17991E-04 3.00486E-02-5.87934E-02-1.12892E-04 1.87196E-02-1.73497E-02 4.65927E+00-2.81690E+01-4.50244E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2601                              ( at time 1.2998699E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -9.39483E-05-6.30777E-06-5.86960E-06-1.60493E-04-1.44328E-05-1.76329E-05-3.38992E-04 5.38196E-05-2.27455E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2801                              ( at time 1.3998599E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -8.55260E-05 2.48938E-02-4.85830E-02 1.44278E-04 3.12652E-02-5.98606E-02-7.37198E-04 1.21675E-02-1.06726E-02 4.65929E+00-2.81659E+01-4.50303E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    2801                              ( at time 1.3998599E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.10783E-04-7.90982E-06-7.95070E-06-1.77168E-04-2.22097E-05-1.97435E-05-1.66768E-04-7.77769E-05-2.11073E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3001                              ( at time 1.4998499E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -6.01825E-05 2.81099E-02-5.48367E-02 2.48777E-04 3.28477E-02-6.56959E-02 1.04510E-03 1.58267E-02-5.83593E-02 4.65931E+00-2.81627E+01-4.50366E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3001                              ( at time 1.4998499E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.28849E-04-1.02241E-05-1.01405E-05-1.84783E-04-2.58432E-05-2.57166E-05-7.61573E-05-3.63387E-05-5.97376E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3201                              ( at time 1.5998399E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -5.15953E-05 3.15263E-02-6.16347E-02 3.06822E-04 3.52033E-02-6.96140E-02 5.80505E-04 2.35586E-02-3.91850E-02 4.65932E+00-2.81593E+01-4.50434E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3201                              ( at time 1.5998399E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.47335E-04-1.27370E-05-1.26277E-05-2.00311E-04-2.86881E-05-2.68690E-05-1.55298E-04-2.84525E-05-1.15251E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3401                              ( at time 1.6998299E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.15806E-05 3.50938E-02-6.87000E-02 1.14362E-04 3.61086E-02-7.14651E-02-1.92479E-03 9.05384E-03-1.85124E-02 4.65936E+00-2.81557E+01-4.50504E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3401                              ( at time 1.6998299E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.68691E-04-1.55314E-05-1.57119E-05-2.24095E-04-2.47490E-05-2.76879E-05-2.37865E-04 3.93951E-05-8.19020E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3601                              ( at time 1.7998199E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.84385E-05 3.87042E-02-7.59378E-02 4.76614E-05 3.63869E-02-7.30722E-02-6.67077E-04 2.78248E-03-1.60727E-02 4.65936E+00-2.81521E+01-4.50577E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3601                              ( at time 1.7998199E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.92110E-04-1.79893E-05-1.87792E-05-2.31354E-04-2.36347E-05-3.54956E-05-7.25911E-05 1.11442E-05-7.80847E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3801                              ( at time 1.8998099E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -6.94941E-06 4.24921E-02-8.34232E-02 4.62642E-04 3.91060E-02-7.70054E-02 4.15022E-03 2.71937E-02-3.93364E-02 4.65937E+00-2.81483E+01-4.50651E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    3801                              ( at time 1.8998099E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.15522E-04-2.07168E-05-2.25428E-05-2.32333E-04-3.46530E-05-4.14577E-05-9.79733E-06-1.10194E-04-5.96269E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4001                              ( at time 1.9997999E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.43340E-05 4.64357E-02-9.13450E-02 3.08307E-04 3.98935E-02-8.12643E-02-1.54350E-03 7.87590E-03-4.25935E-02 4.65942E+00-2.81444E+01-4.50731E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4001                              ( at time 1.9997999E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.39245E-04-2.42525E-05-2.65073E-05-2.44414E-04-3.83167E-05-3.74160E-05-1.20820E-04-3.66404E-05 4.04214E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4201                              ( at time 2.0997899E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.52952E-05 5.04564E-02-9.95749E-02 8.92871E-04 4.06063E-02-8.36500E-02 5.84622E-03 7.12913E-03-2.38591E-02 4.65947E+00-2.81404E+01-4.50813E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4201                              ( at time 2.0997899E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.63662E-04-2.84589E-05-3.09653E-05-2.47523E-04-4.90815E-05-4.65737E-05-3.10904E-05-1.07658E-04-9.15866E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4401                              ( at time 2.1997798E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.03395E-04 5.45535E-02-1.08004E-01 1.27983E-03 4.10407E-02-8.49501E-02 3.86999E-03 4.34428E-03-1.30027E-02 4.65958E+00-2.81363E+01-4.50897E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4401                              ( at time 2.1997798E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.89274E-04-3.34745E-05-3.53529E-05-2.63701E-04-4.81260E-05-3.99803E-05-1.61799E-04 9.55590E-06 6.59406E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4601                              ( at time 2.2997698E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.19915E-04 5.86557E-02-1.16574E-01 8.48928E-04 4.16068E-02-8.72077E-02-4.30945E-03 5.66196E-03-2.25781E-02 4.65970E+00-2.81322E+01-4.50983E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4601                              ( at time 2.2997698E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.16578E-04-3.79920E-05-3.91131E-05-2.66888E-04-4.41878E-05-3.91228E-05-3.18745E-05 3.93861E-05 8.57658E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4801                              ( at time 2.3997598E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.84417E-04 6.29484E-02-1.25559E-01 1.26472E-04 4.37358E-02-9.20908E-02-7.22529E-03 2.12916E-02-4.88357E-02 4.65976E+00-2.81279E+01-4.51073E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    4801                              ( at time 2.3997598E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.43187E-04-4.20579E-05-4.28595E-05-2.62622E-04-3.02038E-05-3.52525E-05 4.26644E-05 1.39854E-04 3.87064E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5001                              ( at time 2.4997498E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.53873E-04 6.73988E-02-1.34923E-01-5.09969E-04 4.48499E-02-9.49558E-02-6.36504E-03 1.11420E-02-2.86528E-02 4.65973E+00-2.81234E+01-4.51166E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5001                              ( at time 2.4997498E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.70055E-04-4.44302E-05-4.59606E-05-2.65174E-04-1.67789E-05-2.60053E-05-2.55152E-05 1.34262E-04 9.24813E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5201                              ( at time 2.5997398E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.81633E-04 7.19355E-02-1.44458E-01-1.24126E-03 4.50105E-02-9.52807E-02-7.31368E-03 1.60621E-03-3.24886E-03 4.65966E+00-2.81189E+01-4.51262E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5201                              ( at time 2.5997398E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.96543E-04-4.62451E-05-4.89707E-05-2.62981E-04-1.90850E-05-3.03940E-05 2.19235E-05-2.30631E-05-4.38916E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5401                              ( at time 2.6997298E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.29465E-04 7.63847E-02-1.53989E-01 5.98057E-04 4.45516E-02-9.57744E-02 1.83950E-02-4.58941E-03-4.93799E-03 4.65960E+00-2.81144E+01-4.51357E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5401                              ( at time 2.6997298E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.24246E-04-4.86748E-05-5.18305E-05-2.84784E-04-2.63165E-05-3.12012E-05-2.18045E-04-7.23224E-05-8.07284E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5601                              ( at time 2.7997198E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.06122E-04 8.08670E-02-1.63660E-01 5.84176E-04 4.50527E-02-9.76325E-02-1.38825E-04 5.01154E-03-1.85827E-02 4.65968E+00-2.81100E+01-4.51454E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5601                              ( at time 2.7997198E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.52240E-04-5.15759E-05-5.49245E-05-2.67057E-04-3.32211E-05-2.98831E-05 1.77287E-04-6.90529E-05 1.31824E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5801                              ( at time 2.8997098E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.40006E-04 8.53570E-02-1.73525E-01 1.47939E-04 4.47813E-02-9.98648E-02-4.36281E-03-2.71370E-03-2.23255E-02 4.65972E+00-2.81055E+01-4.51552E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    5801                              ( at time 2.8997098E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.78671E-04-5.48259E-05-5.83012E-05-2.70562E-04-3.65715E-05-3.30904E-05-3.50562E-05-3.35077E-05-3.20761E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6001                              ( at time 2.9996998E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.32143E-04 8.97948E-02-1.83516E-01-1.21335E-04 4.39109E-02-9.95439E-02-2.69300E-03-8.70478E-03 3.20973E-03 4.65971E+00-2.81010E+01-4.51652E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6001                              ( at time 2.9996998E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.06842E-04-5.78405E-05-6.20408E-05-2.80826E-04-2.75067E-05-3.60478E-05-1.02649E-04 9.06578E-05-2.95771E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6201                              ( at time 3.0996898E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.96465E-04 9.41920E-02-1.93463E-01-3.78761E-04 4.41761E-02-9.98403E-02-2.57452E-03 2.65141E-03-2.96407E-03 4.65967E+00-2.80966E+01-4.51752E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6201                              ( at time 3.0996898E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.35443E-04-6.03407E-05-6.49181E-05-2.85142E-04-2.43613E-05-2.28867E-05-4.31659E-05 3.14569E-05 1.31624E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6401                              ( at time 3.1996798E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.25228E-04 9.86351E-02-2.03574E-01 4.77309E-04 4.47798E-02-1.02594E-01 8.56154E-03 6.03780E-03-2.75410E-02 4.65970E+00-2.80922E+01-4.51853E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6401                              ( at time 3.1996798E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.63774E-04-6.26865E-05-6.79578E-05-2.85836E-04-1.70830E-05-3.22083E-05-6.93671E-06 7.27900E-05-9.32244E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6601                              ( at time 3.2996698E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.12156E-04 1.03070E-01-2.13952E-01-4.52889E-04 4.46583E-02-1.04848E-01-9.30292E-03-1.21468E-03-2.25367E-02 4.65969E+00-2.80878E+01-4.51957E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6601                              ( at time 3.2996698E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.92114E-04-6.45748E-05-7.09055E-05-2.82830E-04-1.26161E-05-2.67119E-05 3.00612E-05 4.46732E-05 5.49693E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6801                              ( at time 3.3996598E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.34021E-04 1.07528E-01-2.24497E-01-7.29163E-04 4.43169E-02-1.05944E-01-2.76301E-03-3.41419E-03-1.09682E-02 4.65961E+00-2.80833E+01-4.52062E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    6801                              ( at time 3.3996598E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.20309E-04-6.66504E-05-7.34872E-05-2.83272E-04-2.01806E-05-2.61628E-05-4.41782E-06-7.56524E-05 5.49165E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7001                              ( at time 3.4996498E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.02401E-04 1.11911E-01-2.35017E-01-5.94421E-04 4.31394E-02-1.04029E-01 1.34755E-03-1.17769E-02 1.91516E-02 4.65958E+00-2.80789E+01-4.52167E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7001                              ( at time 3.4996498E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.49029E-04-6.81862E-05-7.63708E-05-2.83993E-04-2.24444E-05-3.11402E-05-7.21149E-06-2.26404E-05-4.97795E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7201                              ( at time 3.5996397E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.83671E-04 1.16208E-01-2.45437E-01 1.71278E-04 4.23238E-02-1.04580E-01 7.65776E-03-8.15660E-03-5.50661E-03 4.65956E+00-2.80746E+01-4.52272E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7201                              ( at time 3.5996397E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.78008E-04-6.98075E-05-7.89222E-05-2.85096E-04-1.69731E-05-3.16857E-05-1.10344E-05 5.47191E-05-5.45505E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7401                              ( at time 3.6996297E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.50403E-04 1.20402E-01-2.55926E-01-1.28840E-04 4.11677E-02-1.05196E-01-3.00148E-03-1.15624E-02-6.16082E-03 4.65953E+00-2.80704E+01-4.52376E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7401                              ( at time 3.6996297E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.06289E-04-7.20350E-05-8.25343E-05-2.84369E-04-2.44858E-05-3.58066E-05 7.26707E-06-7.51341E-05-4.12136E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7601                              ( at time 3.7996197E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.66213E-04 1.24465E-01-2.66424E-01 1.54444E-04 4.00393E-02-1.04843E-01 2.83313E-03-1.12846E-02 3.53029E-03 4.65954E+00-2.80664E+01-4.52481E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7601                              ( at time 3.7996197E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.34610E-04-7.45148E-05-8.59502E-05-2.80185E-04-2.88440E-05-3.34043E-05 4.18477E-05-4.35869E-05 2.40257E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7801                              ( at time 3.8996097E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.49396E-04 1.28391E-01-2.76851E-01 1.03394E-04 3.87503E-02-1.03959E-01-5.10549E-04-1.28917E-02 8.84181E-03 4.65952E+00-2.80624E+01-4.52586E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    7801                              ( at time 3.8996097E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.62689E-04-7.66798E-05-8.90077E-05-2.85888E-04-1.93912E-05-3.27804E-05-5.70349E-05 9.45373E-05 6.23946E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8001                              ( at time 3.9995997E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.67413E-04 1.32187E-01-2.87111E-01-3.51971E-05 3.67935E-02-1.01307E-01-1.38606E-03-1.95700E-02 2.65171E-02 4.65954E+00-2.80586E+01-4.52688E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8001                              ( at time 3.9995997E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.91296E-04-7.90045E-05-9.26807E-05-2.81292E-04-2.82733E-05-3.16857E-05 4.59613E-05-8.88295E-05 1.09482E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8201                              ( at time 4.0995897E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.76003E-04 1.35821E-01-2.97247E-01 2.33901E-04 3.59852E-02-1.01279E-01 2.69125E-03-8.08360E-03 2.80542E-04 4.65955E+00-2.80550E+01-4.52790E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8201                              ( at time 4.0995897E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.18596E-04-8.09879E-05-9.56512E-05-2.61800E-04-1.12535E-05-2.53181E-05 1.94940E-04 1.70215E-04 6.36820E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8401                              ( at time 4.1995797E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.30654E-04 1.39343E-01-3.07389E-01-7.83775E-04 3.43587E-02-1.01275E-01-1.01778E-02-1.62668E-02 4.69434E-05 4.65951E+00-2.80515E+01-4.52891E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8401                              ( at time 4.1995797E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.44698E-04-8.17897E-05-9.82310E-05-2.67170E-04 2.51797E-06-2.64587E-05-5.37020E-05 1.37728E-04-1.14069E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8601                              ( at time 4.2995697E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.99281E-05 1.42735E-01-3.17403E-01-1.15387E-03 3.29812E-02-9.89087E-02-3.70127E-03-1.37758E-02 2.36614E-02 4.65940E+00-2.80481E+01-4.52991E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8601                              ( at time 4.2995697E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.70371E-04-8.22319E-05-1.00638E-04-2.49881E-04-5.55203E-06-1.76769E-05 1.72905E-04-8.07082E-05 8.78272E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8801                              ( at time 4.3995597E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.49463E-05 1.45916E-01-3.27150E-01-1.29351E-04 3.06266E-02-9.61052E-02 1.02462E-02-2.35487E-02 2.80383E-02 4.65935E+00-2.80449E+01-4.53089E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    8801                              ( at time 4.3995597E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.94985E-04-8.23676E-05-1.02653E-04-2.47600E-04-7.38121E-06-2.48168E-05 2.28110E-05-1.82936E-05-7.14068E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9001                              ( at time 4.4995497E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -4.49184E-05 1.48875E-01-3.36659E-01-1.68351E-04 2.89269E-02-9.49797E-02-3.90030E-04-1.69988E-02 1.12559E-02 4.65933E+00-2.80420E+01-4.53184E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9001                              ( at time 4.4995497E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -9.19243E-04-8.33489E-05-1.04811E-04-2.46332E-04-8.30064E-06-2.09823E-05 1.26832E-05-9.19517E-06 3.83485E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9201                              ( at time 4.5995397E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -7.60781E-05 1.51695E-01-3.46100E-01-8.82004E-04 2.74602E-02-9.33022E-02-7.13726E-03-1.46681E-02 1.67762E-02 4.65930E+00-2.80391E+01-4.53278E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9201                              ( at time 4.5995397E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -9.42186E-04-8.36385E-05-1.07290E-04-2.08421E-04-7.05009E-06-2.63508E-05 3.79146E-04 1.25067E-05-5.36896E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9401                              ( at time 4.6995297E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.16572E-04 1.54324E-01-3.55367E-01-3.30743E-04 2.51935E-02-9.14953E-02 5.51317E-03-2.26691E-02 1.80714E-02 4.65926E+00-2.80365E+01-4.53371E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9401                              ( at time 4.6995297E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -9.64187E-04-8.47332E-05-1.10383E-04-2.19694E-04-9.04184E-06-2.84970E-05-1.12740E-04-1.99196E-05-2.14646E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9601                              ( at time 4.7995197E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.51994E-04 1.56783E-01-3.64397E-01 2.32622E-04 2.40423E-02-8.88392E-02 5.63422E-03-1.15134E-02 2.65630E-02 4.65922E+00-2.80340E+01-4.53461E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9601                              ( at time 4.7995197E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -9.85865E-04-8.64070E-05-1.12927E-04-2.16042E-04-1.38318E-05-2.64086E-05 3.65262E-05-4.79049E-05 2.08858E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9801                              ( at time 4.8995097E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.12564E-04 1.59089E-01-3.73121E-01-6.48058E-06 2.24855E-02-8.57793E-02-2.39127E-03-1.55699E-02 3.06026E-02 4.65926E+00-2.80317E+01-4.53548E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p    9801                              ( at time 4.8995097E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.00729E-03-8.81787E-05-1.16214E-04-2.07167E-04-2.40943E-05-3.24740E-05 8.87631E-05-1.02635E-04-6.06601E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10001                              ( at time 4.9994997E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.05396E-04 1.61274E-01-3.81641E-01 1.79260E-04 2.20882E-02-8.49705E-02 1.85758E-03-3.97285E-03 8.08868E-03 4.65927E+00-2.80296E+01-4.53634E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10001                              ( at time 4.9994997E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.02747E-03-9.04406E-05-1.19721E-04-1.97208E-04-2.12456E-05-3.97092E-05 9.95977E-05 2.84907E-05-7.23589E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10202                              ( at time 5.0999896E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.15139E-04 1.63486E-01-3.90121E-01-3.08282E-04 2.18859E-02-8.35296E-02-4.85167E-03-2.01392E-03 1.43387E-02 4.65926E+00-2.80273E+01-4.53718E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10202                              ( at time 5.0999896E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.04738E-03-9.29078E-05-1.23659E-04-1.98630E-04-2.32273E-05-4.12808E-05-1.41561E-05-1.97213E-05-1.56387E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10402                              ( at time 5.1999796E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.71887E-04 1.65701E-01-3.98362E-01-9.44121E-04 2.22722E-02-8.08816E-02-6.35900E-03 3.86340E-03 2.64832E-02 4.65920E+00-2.80251E+01-4.53801E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10402                              ( at time 5.1999796E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.06763E-03-9.51052E-05-1.27754E-04-1.98549E-04-2.13772E-05-4.19589E-05 8.17314E-07 1.85034E-05-6.78257E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10602                              ( at time 5.2999696E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.27769E-04 1.67972E-01-4.06342E-01 2.34520E-05 2.30106E-02-7.90243E-02 9.67671E-03 7.38491E-03 1.85741E-02 4.65915E+00-2.80229E+01-4.53881E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10602                              ( at time 5.2999696E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.08746E-03-9.79627E-05-1.32220E-04-2.06384E-04-2.31821E-05-4.39785E-05-7.83634E-05-1.80515E-05-2.01974E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10802                              ( at time 5.3999596E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.55327E-04 1.70386E-01-4.14133E-01-2.26513E-04 2.53543E-02-7.74295E-02-2.49990E-03 2.34400E-02 1.59504E-02 4.65912E+00-2.80204E+01-4.53959E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   10802                              ( at time 5.3999596E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.10779E-03-1.00630E-04-1.36873E-04-2.03579E-04-3.29710E-05-4.95314E-05 2.80492E-05-9.78988E-05-5.55351E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11002                              ( at time 5.4999496E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.63321E-04 1.73048E-01-4.21821E-01-3.79796E-04 2.80566E-02-7.59217E-02-1.53299E-03 2.70256E-02 1.50788E-02 4.65911E+00-2.80178E+01-4.54035E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11002                              ( at time 5.4999496E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.12925E-03-1.03926E-04-1.41539E-04-2.17430E-04-3.66253E-05-4.57995E-05-1.38519E-04-3.65464E-05 3.73231E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11202                              ( at time 5.5999396E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.97172E-04 1.76030E-01-4.29281E-01-6.30721E-04 3.16217E-02-7.29506E-02-2.50950E-03 3.56545E-02 2.97144E-02 4.65908E+00-2.80148E+01-4.54110E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11202                              ( at time 5.5999396E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.15253E-03-1.07431E-04-1.46520E-04-2.44921E-04-3.59154E-05-5.66437E-05-2.74939E-04 7.10012E-06-1.08453E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11402                              ( at time 5.6999296E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -3.65828E-04 1.79415E-01-4.36404E-01-3.22976E-04 3.66859E-02-6.89787E-02 3.07775E-03 5.06470E-02 3.97223E-02 4.65901E+00-2.80114E+01-4.54181E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11402                              ( at time 5.6999296E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.17935E-03-1.11167E-04-1.52069E-04-2.82218E-04-3.39136E-05-4.56804E-05-3.73009E-04 2.00196E-05 1.09643E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11602                              ( at time 5.7999195E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -3.80522E-04 1.83363E-01-4.43156E-01 1.78849E-04 4.28040E-02-6.64549E-02 5.01876E-03 6.11871E-02 2.52409E-02 4.65899E+00-2.80075E+01-4.54249E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11602                              ( at time 5.7999195E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.20973E-03-1.13490E-04-1.55329E-04-3.27014E-04-1.36234E-05-2.40173E-05-4.48004E-04 2.02922E-04 2.16653E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11802                              ( at time 5.8999095E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -3.62921E-04 1.88057E-01-4.49740E-01 4.46930E-05 5.11906E-02-6.51815E-02-1.34170E-03 8.38745E-02 1.27350E-02 4.65901E+00-2.80028E+01-4.54315E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   11802                              ( at time 5.8999095E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.24464E-03-1.14981E-04-1.57552E-04-3.87273E-04-2.41248E-05-2.21428E-05-6.02652E-04-1.05024E-04 1.87472E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12002                              ( at time 5.9998995E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -3.73297E-04 1.93604E-01-4.56133E-01 5.57216E-05 6.05256E-02-6.22579E-02 1.10296E-04 9.33594E-02 2.92396E-02 4.65900E+00-2.79972E+01-4.54379E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12002                              ( at time 5.9998995E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.28670E-03-1.16212E-04-1.59149E-04-4.53013E-04-6.49481E-06-1.00056E-05-6.57463E-04 1.76318E-04 1.21383E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12202                              ( at time 6.0998895E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -3.39841E-04 2.00205E-01-4.62279E-01 7.76238E-04 7.18869E-02-6.02270E-02 7.20586E-03 1.13624E-01 2.03109E-02 4.65904E+00-2.79906E+01-4.54440E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12202                              ( at time 6.0998895E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.33660E-03-1.16451E-04-1.59373E-04-5.50997E-04 8.03189E-06 4.02795E-06-9.79936E-04 1.45281E-04 1.40350E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12402                              ( at time 6.1998795E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.35987E-04 2.08015E-01-4.68197E-01 1.28236E-03 8.48812E-02-5.79961E-02 5.06169E-03 1.29956E-01 2.23108E-02 4.65914E+00-2.79828E+01-4.54499E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12402                              ( at time 6.1998795E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.39580E-03-1.15540E-04-1.58058E-04-6.36879E-04 1.19968E-05 1.81050E-05-8.58907E-04 3.96533E-05 1.40785E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12602                              ( at time 6.2998695E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -1.36577E-04 2.17180E-01-4.74002E-01 6.13611E-04 9.83485E-02-5.79866E-02-6.68813E-03 1.34686E-01 9.52653E-05 4.65924E+00-2.79736E+01-4.54557E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12602                              ( at time 6.2998695E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.46405E-03-1.15449E-04-1.56849E-04-7.27779E-04-5.40605E-06 3.57318E-06-9.09092E-04-1.74046E-04-1.45333E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12802                              ( at time 6.3998595E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -3.45675E-05 2.27862E-01-4.79798E-01 9.98733E-04 1.14937E-01-5.77493E-02 3.85161E-03 1.65906E-01 2.37299E-03 4.65934E+00-2.79630E+01-4.54615E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   12802                              ( at time 6.3998595E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.54246E-03-1.16143E-04-1.56865E-04-8.55448E-04-5.07310E-06 1.62168E-06-1.27682E-03 3.32983E-06-1.95169E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13002                              ( at time 6.4998495E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.25701E-05 2.40175E-01-4.85419E-01 1.29724E-03 1.31498E-01-5.52966E-02 2.98539E-03 1.65619E-01 2.45302E-02 4.65945E+00-2.79507E+01-4.54671E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13002                              ( at time 6.4998495E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.63336E-03-1.16556E-04-1.55919E-04-9.77502E-04-7.80652E-06 1.17335E-05-1.22066E-03-2.73370E-05 1.01129E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13202                              ( at time 6.5998395E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.19965E-04 2.54240E-01-4.90852E-01 1.38941E-03 1.49903E-01-5.39329E-02 9.21748E-04 1.84072E-01 1.36377E-02 4.65960E+00-2.79366E+01-4.54726E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13202                              ( at time 6.5998395E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.73638E-03-1.17463E-04-1.54851E-04-1.09939E-03 2.48940E-07 1.75524E-05-1.21899E-03 8.05624E-05 5.81946E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13402                              ( at time 6.6998295E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.16304E-04 2.70212E-01-4.96243E-01 6.08977E-04 1.69649E-01-5.43055E-02-7.80509E-03 1.97476E-01-3.72604E-03 4.65969E+00-2.79206E+01-4.54780E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13402                              ( at time 6.6998295E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.85191E-03-1.17429E-04-1.53110E-04-1.22644E-03-1.08217E-07 1.97276E-05-1.27065E-03-3.57194E-06 2.17544E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13602                              ( at time 6.7998195E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.78895E-04 2.88251E-01-5.01652E-01 9.20923E-04 1.90964E-01-5.41716E-02 3.11978E-03 2.13176E-01 1.33900E-03 4.65975E+00-2.79026E+01-4.54834E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13602                              ( at time 6.7998195E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.98114E-03-1.17627E-04-1.51213E-04-1.36911E-03-7.31558E-06 1.85086E-05-1.42687E-03-7.20809E-05-1.21920E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13802                              ( at time 6.8998095E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.89709E-04 3.08499E-01-5.07085E-01 1.02431E-03 2.13894E-01-5.43273E-02 1.03399E-03 2.29322E-01-1.55703E-03 4.65986E+00-2.78823E+01-4.54888E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   13802                              ( at time 6.8998095E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.12590E-03-1.18022E-04-1.49196E-04-1.52658E-03-5.42520E-06 2.48899E-05-1.57483E-03 1.89057E-05 6.38200E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14002                              ( at time 6.9997995E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.04909E-04 3.31032E-01-5.12532E-01 1.01275E-03 2.36983E-01-5.41819E-02-1.15611E-04 2.30917E-01 1.45443E-03 4.65998E+00-2.78598E+01-4.54943E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14002                              ( at time 6.9997995E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.28593E-03-1.19317E-04-1.47194E-04-1.67358E-03-1.78004E-05 1.74143E-05-1.47017E-03-1.23764E-04-7.47634E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14202                              ( at time 7.0997895E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.69017E-04 3.55976E-01-5.17978E-01 8.16952E-04 2.62230E-01-5.49124E-02-1.95819E-03 2.52488E-01-7.30644E-03 4.66004E+00-2.78349E+01-4.54997E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14202                              ( at time 7.0997895E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.46177E-03-1.20119E-04-1.44862E-04-1.84003E-03 6.50448E-06 2.85194E-05-1.66464E-03 2.43072E-04 1.11061E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14402                              ( at time 7.1997794E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.74746E-04 3.83524E-01-5.23560E-01 8.07819E-04 2.88431E-01-5.67933E-02-9.13440E-05 2.62044E-01-1.88103E-02 4.66015E+00-2.78073E+01-4.55053E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14402                              ( at time 7.1997794E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.65456E-03-1.20193E-04-1.41627E-04-2.01766E-03-7.85258E-06 3.24240E-05-1.77647E-03-1.43585E-04 3.90504E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14602                              ( at time 7.2997694E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  8.55759E-04 4.13691E-01-5.29210E-01 8.23953E-04 3.15028E-01-5.63838E-02 1.61359E-04 2.65990E-01 4.09518E-03 4.66023E+00-2.77771E+01-4.55109E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14602                              ( at time 7.2997694E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.86462E-03-1.21150E-04-1.38076E-04-2.19372E-03-1.21816E-05 3.15053E-05-1.76078E-03-4.32947E-05-9.18773E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14802                              ( at time 7.3997594E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.13253E-04 4.46573E-01-5.34789E-01 1.00445E-03 3.42267E-01-5.57627E-02 1.80515E-03 2.72420E-01 6.21125E-03 4.66029E+00-2.77443E+01-4.55165E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   14802                              ( at time 7.3997594E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.09274E-03-1.21407E-04-1.33964E-04-2.37726E-03 8.40510E-06 4.62111E-05-1.83558E-03 2.05888E-04 1.47073E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15002                              ( at time 7.4997494E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.04967E-03 4.82255E-01-5.40362E-01 1.14793E-03 3.71452E-01-5.60839E-02 1.43491E-03 2.91873E-01-3.21184E-03 4.66042E+00-2.77086E+01-4.55221E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15002                              ( at time 7.4997494E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.33915E-03-1.20050E-04-1.28620E-04-2.56096E-03 1.53616E-05 6.45111E-05-1.83719E-03 6.95722E-05 1.83017E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15202                              ( at time 7.5997394E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.12500E-03 5.20865E-01-5.45973E-01 7.84516E-04 4.00334E-01-5.60147E-02-3.63447E-03 2.88857E-01 6.92117E-04 4.66050E+00-2.76700E+01-4.55277E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15202                              ( at time 7.5997394E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.60438E-03-1.18603E-04-1.22339E-04-2.75057E-03 8.63756E-06 6.00641E-05-1.89625E-03-6.72476E-05-4.44738E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15402                              ( at time 7.6997294E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.18168E-03 5.62406E-01-5.51619E-01 4.95568E-04 4.30829E-01-5.71213E-02-2.88977E-03 3.04980E-01-1.10676E-02 4.66056E+00-2.76284E+01-4.55333E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15402                              ( at time 7.6997294E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.88962E-03-1.17046E-04-1.15631E-04-2.95832E-03 3.07956E-05 7.39489E-05-2.07768E-03 2.21603E-04 1.38862E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15602                              ( at time 7.7997194E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.25141E-03 6.07024E-01-5.57333E-01 6.71659E-04 4.61893E-01-5.65668E-02 1.76109E-03 3.10672E-01 5.54551E-03 4.66063E+00-2.75838E+01-4.55391E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15602                              ( at time 7.7997194E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.19541E-03-1.13427E-04-1.07653E-04-3.15451E-03 3.09724E-05 7.61652E-05-1.96211E-03 1.76809E-06 2.21644E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15802                              ( at time 7.8997094E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.37123E-03 6.54778E-01-5.62987E-01 1.19724E-03 4.93221E-01-5.63718E-02 5.25637E-03 3.13309E-01 1.95039E-03 4.66075E+00-2.75361E+01-4.55447E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   15802                              ( at time 7.8997094E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.52139E-03-1.10350E-04-9.99643E-05-3.35509E-03 3.48984E-05 7.50074E-05-2.00599E-03 3.92640E-05-1.15787E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16002                              ( at time 7.9996994E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.46477E-03 7.05722E-01-5.68648E-01 1.03558E-03 5.26016E-01-5.70327E-02-1.61677E-03 3.27986E-01-6.60953E-03 4.66084E+00-2.74851E+01-4.55504E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16002                              ( at time 7.9996994E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.86771E-03-1.06888E-04-9.15974E-05-3.56296E-03 3.71640E-05 8.24992E-05-2.07899E-03 2.26573E-05 7.49254E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16202                              ( at time 8.0996894E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.62316E-03 7.59994E-01-5.74378E-01 1.68781E-03 5.59076E-01-5.69604E-02 6.52294E-03 3.30626E-01 7.23450E-04 4.66100E+00-2.74308E+01-4.55561E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16202                              ( at time 8.0996894E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.23556E-03-1.03850E-04-8.32925E-05-3.77904E-03 2.76673E-05 7.76533E-05-2.16094E-03-9.49759E-05-4.84635E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16402                              ( at time 8.1996794E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.77061E-03 8.17545E-01-5.79958E-01 1.55253E-03 5.91990E-01-5.45730E-02-1.35295E-03 3.29175E-01 2.38762E-02 4.66115E+00-2.73733E+01-4.55617E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16402                              ( at time 8.1996794E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.62503E-03-1.00405E-04-7.45950E-05-4.00508E-03 3.38009E-05 8.26926E-05-2.26069E-03 6.13424E-05 5.03980E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16602                              ( at time 8.2996694E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.96598E-03 8.78364E-01-5.85352E-01 2.02365E-03 6.24457E-01-5.33686E-02 4.71171E-03 3.24704E-01 1.20452E-02 4.66134E+00-2.73125E+01-4.55671E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16602                              ( at time 8.2996694E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.03707E-03-9.69667E-05-6.60656E-05-4.22448E-03 3.88603E-05 8.70502E-05-2.19421E-03 5.05991E-05 4.35802E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16802                              ( at time 8.3996594E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.13872E-03 9.42509E-01-5.90596E-01 1.56619E-03 6.58239E-01-5.17944E-02-4.57504E-03 3.37854E-01 1.57439E-02 4.66151E+00-2.72483E+01-4.55723E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   16802                              ( at time 8.3996594E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.46991E-03-9.31552E-05-5.69662E-05-4.43878E-03 3.70425E-05 9.32887E-05-2.14322E-03-1.81806E-05 6.23912E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17002                              ( at time 8.4996494E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.28887E-03 1.00998E+00-5.95662E-01 1.56189E-03 6.91408E-01-4.95899E-02-4.30117E-05 3.31724E-01 2.20474E-02 4.66166E+00-2.71808E+01-4.55774E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17002                              ( at time 8.4996494E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.92505E-03-8.95782E-05-4.81158E-05-4.67475E-03 3.74506E-05 8.76598E-05-2.35994E-03 4.08190E-06-5.62948E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17202                              ( at time 8.5996394E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.47328E-03 1.08081E+00-6.00448E-01 1.98419E-03 7.25204E-01-4.59897E-02 4.22341E-03 3.37993E-01 3.60054E-02 4.66185E+00-2.71100E+01-4.55822E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17202                              ( at time 8.5996394E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.40344E-03-8.52526E-05-3.93545E-05-4.89663E-03 4.40165E-05 9.43093E-05-2.21902E-03 6.56652E-05 6.65017E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17402                              ( at time 8.6996293E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.67909E-03 1.15498E+00-6.04837E-01 1.99558E-03 7.58238E-01-4.17734E-02 1.13879E-04 3.30374E-01 4.21668E-02 4.66205E+00-2.70358E+01-4.55866E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17402                              ( at time 8.6996293E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.90341E-03-8.11539E-05-2.96239E-05-5.11578E-03 3.82334E-05 9.53049E-05-2.19169E-03-5.78364E-05 9.95660E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17602                              ( at time 8.7996193E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.89461E-03 1.23250E+00-6.08766E-01 2.16552E-03 7.91973E-01-3.71101E-02 1.69958E-03 3.37382E-01 4.66380E-02 4.66227E+00-2.69583E+01-4.55905E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17602                              ( at time 8.7996193E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.42597E-03-7.72925E-05-2.07879E-05-5.33671E-03 3.98704E-05 8.93101E-05-2.20947E-03 1.63723E-05-5.99539E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17802                              ( at time 8.8996093E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.13061E-03 1.31336E+00-6.12200E-01 2.75033E-03 8.25322E-01-3.12039E-02 5.84874E-03 3.33526E-01 5.90672E-02 4.66251E+00-2.68775E+01-4.55939E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   17802                              ( at time 8.8996093E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -8.97084E-03-7.29793E-05-1.20336E-05-5.55395E-03 3.66035E-05 8.45125E-05-2.17262E-03-3.26724E-05-4.79807E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18002                              ( at time 8.9995993E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.38273E-03 1.39751E+00-6.15012E-01 2.62770E-03 8.58065E-01-2.43995E-02-1.22643E-03 3.27460E-01 6.80517E-02 4.66276E+00-2.67933E+01-4.55967E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18002                              ( at time 8.9995993E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -9.53896E-03-6.91406E-05-2.79183E-06-5.78884E-03 3.90491E-05 9.20684E-05-2.34914E-03 2.44584E-05 7.55663E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18202                              ( at time 9.0995893E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.60906E-03 1.48493E+00-6.17112E-01 2.05091E-03 8.90573E-01-1.71626E-02-5.76855E-03 3.25110E-01 7.23761E-02 4.66298E+00-2.67059E+01-4.55988E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18202                              ( at time 9.0995893E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.01296E-02-6.49103E-05 6.10916E-06-6.01348E-03 3.53947E-05 8.43683E-05-2.24664E-03-3.65481E-05-7.70087E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18402                              ( at time 9.1995793E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.87985E-03 1.57559E+00-6.18389E-01 2.85456E-03 9.22284E-01-8.84061E-03 8.03738E-03 3.17146E-01 8.32280E-02 4.66325E+00-2.66152E+01-4.56001E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18402                              ( at time 9.1995793E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.07421E-02-6.19034E-05 1.42015E-05-6.24310E-03 3.39319E-05 8.69043E-05-2.29642E-03-1.46294E-05 2.53625E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18602                              ( at time 9.2995693E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.13989E-03 1.66948E+00-6.18803E-01 2.97616E-03 9.54518E-01 6.82846E-05 1.21613E-03 3.22369E-01 8.90980E-02 4.66352E+00-2.65214E+01-4.56005E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18602                              ( at time 9.2995693E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.13769E-02-5.81452E-05 2.33472E-05-6.45525E-03 3.97444E-05 8.50020E-05-2.12175E-03 5.81310E-05-1.90244E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18802                              ( at time 9.3995593E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.44845E-03 1.76654E+00-6.18348E-01 3.03948E-03 9.86750E-01 8.94631E-03 6.33266E-04 3.22354E-01 8.87892E-02 4.66382E+00-2.64243E+01-4.56001E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   18802                              ( at time 9.3995593E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.20326E-02-5.60614E-05 3.09108E-05-6.66105E-03 8.41759E-06 7.28300E-05-2.05817E-03-3.13300E-04-1.21733E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19002                              ( at time 9.4995493E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.74283E-03 1.86677E+00-6.16907E-01 2.93923E-03 1.01760E+00 2.01154E-02-1.00265E-03 3.08578E-01 1.11702E-01 4.66412E+00-2.63241E+01-4.55986E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19002                              ( at time 9.4995493E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.27095E-02-5.47048E-05 3.85797E-05-6.87117E-03 1.67909E-05 7.74389E-05-2.10149E-03 8.37419E-05 4.60938E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19202                              ( at time 9.5995393E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  5.05591E-03 1.97006E+00-6.14330E-01 3.29635E-03 1.04865E+00 3.07055E-02 3.57157E-03 3.10505E-01 1.05910E-01 4.66443E+00-2.62208E+01-4.55961E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19202                              ( at time 9.5995393E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.34056E-02-5.34899E-05 4.54242E-05-7.05492E-03 1.14273E-05 6.37710E-05-1.83764E-03-5.36415E-05-1.36691E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19402                              ( at time 9.6995293E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  5.36223E-03 2.07647E+00-6.10731E-01 2.87437E-03 1.07945E+00 4.13168E-02-4.22027E-03 3.07989E-01 1.06124E-01 4.66474E+00-2.61144E+01-4.55924E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19402                              ( at time 9.6995293E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.41196E-02-5.30477E-05 5.15302E-05-7.22898E-03-1.18840E-06 6.53191E-05-1.74080E-03-1.26170E-04 1.54826E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19602                              ( at time 9.7995193E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  5.66236E-03 2.18589E+00-6.06057E-01 2.96996E-03 1.10923E+00 5.25184E-02 9.55985E-04 2.97867E-01 1.12028E-01 4.66504E+00-2.60049E+01-4.55878E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19602                              ( at time 9.7995193E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.48518E-02-5.42655E-05 5.65497E-05-7.40814E-03-1.87626E-05 3.86937E-05-1.79179E-03-1.75760E-04-2.66281E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19802                              ( at time 9.8995093E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  5.94829E-03 2.29829E+00-6.00242E-01 2.95677E-03 1.13900E+00 6.41801E-02-1.31905E-04 2.97700E-01 1.16628E-01 4.66532E+00-2.58925E+01-4.55820E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   19802                              ( at time 9.8995093E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.56009E-02-5.60008E-05 6.10122E-05-7.57087E-03-1.40369E-05 5.13010E-05-1.62739E-03 4.72617E-05 1.26085E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20003                              ( at time 9.9999992E+00 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.25618E-03 2.41420E+00-5.93132E-01 2.69561E-03 1.16793E+00 7.69279E-02-2.59891E-03 2.87917E-01 1.26857E-01 4.66563E+00-2.57766E+01-4.55749E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20003                              ( at time 9.9999992E+00 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.63690E-02-5.74351E-05 6.53926E-05-7.72233E-03-2.61283E-05 2.90175E-05-1.50730E-03-1.20324E-04-2.21749E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20203                              ( at time 1.0099989E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.49226E-03 2.53243E+00-5.84764E-01 2.08140E-03 1.19572E+00 9.07280E-02-6.14264E-03 2.77875E-01 1.38016E-01 4.66587E+00-2.56584E+01-4.55665E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20203                              ( at time 1.0099989E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.71483E-02-6.07028E-05 6.76118E-05-7.86421E-03-4.37589E-05 1.86008E-05-1.41892E-03-1.76325E-04-1.04177E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20403                              ( at time 1.0199979E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.66142E-03 2.65340E+00-5.74981E-01 1.93343E-03 1.22350E+00 1.04771E-01-1.47988E-03 2.77825E-01 1.40446E-01 4.66604E+00-2.55374E+01-4.55567E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20403                              ( at time 1.0199979E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.79409E-02-6.47824E-05 6.97788E-05-7.99558E-03-3.75707E-05 1.74672E-05-1.31381E-03 6.18886E-05-1.13370E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20603                              ( at time 1.0299969E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.86682E-03 2.77701E+00-5.63745E-01 1.71951E-03 1.24909E+00 1.20586E-01-2.13939E-03 2.55954E-01 1.58168E-01 4.66624E+00-2.54138E+01-4.55455E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20603                              ( at time 1.0299969E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.87465E-02-6.92061E-05 7.02929E-05-8.12060E-03-5.19101E-05-7.98564E-07-1.25031E-03-1.43409E-04-1.82677E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20803                              ( at time 1.0399959E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.00261E-03 2.90322E+00-5.50804E-01 9.11158E-04 1.27479E+00 1.37912E-01-8.08429E-03 2.57032E-01 1.73275E-01 4.66638E+00-2.52876E+01-4.55325E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   20803                              ( at time 1.0399959E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -1.95641E-02-7.50587E-05 7.02883E-05-8.23311E-03-6.36316E-05-3.17567E-06-1.12520E-03-1.17226E-04-2.37733E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21003                              ( at time 1.0499949E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.14493E-03 3.03187E+00-5.36106E-01 1.67306E-03 1.29843E+00 1.56149E-01 7.61980E-03 2.36422E-01 1.82387E-01 4.66652E+00-2.51590E+01-4.55178E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21003                              ( at time 1.0499949E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.03928E-02-8.17620E-05 6.93158E-05-8.34484E-03-6.74266E-05-2.24702E-05-1.11742E-03-3.79536E-05-1.92965E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21203                              ( at time 1.0599939E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.26336E-03 3.16286E+00-5.19514E-01 6.28260E-04 1.32161E+00 1.76029E-01-1.04491E-02 2.31790E-01 1.98814E-01 4.66664E+00-2.50280E+01-4.55012E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21203                              ( at time 1.0599939E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.12323E-02-8.83304E-05 6.74694E-05-8.43989E-03-7.64669E-05-2.69200E-05-9.50650E-04-9.04123E-05-4.45023E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21403                              ( at time 1.0699929E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.32487E-03 3.29609E+00-5.00970E-01-9.59794E-05 1.34365E+00 1.95930E-01-7.24313E-03 2.20496E-01 1.99037E-01 4.66670E+00-2.48947E+01-4.54827E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21403                              ( at time 1.0699929E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.20821E-02-9.62688E-05 6.43820E-05-8.54782E-03-9.51390E-05-4.16972E-05-1.07941E-03-1.86740E-04-1.47788E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21603                              ( at time 1.0799919E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.33322E-03 3.43143E+00-4.80271E-01 3.30437E-04 1.36284E+00 2.19016E-01 4.26460E-03 1.91871E-01 2.30885E-01 4.66671E+00-2.47594E+01-4.54620E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21603                              ( at time 1.0799919E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.29424E-02-1.05312E-04 5.97704E-05-8.65047E-03-8.52130E-05-5.03257E-05-1.02655E-03 9.92703E-05-8.62932E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21803                              ( at time 1.0899909E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.33071E-03 3.56864E+00-4.57115E-01-1.06324E-05 1.38117E+00 2.44098E-01-3.41104E-03 1.83317E-01 2.50838E-01 4.66671E+00-2.46222E+01-4.54388E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   21803                              ( at time 1.0899909E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.38120E-02-1.13958E-04 5.53478E-05-8.74131E-03-9.62162E-05-5.46074E-05-9.08532E-04-1.10044E-04-4.28210E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22003                              ( at time 1.0999899E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.27132E-03 3.70762E+00-4.31345E-01-1.60355E-03 1.39764E+00 2.71316E-01-1.59308E-02 1.64752E-01 2.72211E-01 4.66665E+00-2.44832E+01-4.54131E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22003                              ( at time 1.0999899E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.46910E-02-1.24205E-04 4.97528E-05-8.83776E-03-1.07743E-04-6.13703E-05-9.64622E-04-1.15275E-04-6.76362E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22203                              ( at time 1.1099889E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.16142E-03 3.84807E+00-4.02745E-01-5.26249E-04 1.41120E+00 3.00756E-01 1.07741E-02 1.35615E-01 2.94429E-01 4.66654E+00-2.43428E+01-4.53845E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22203                              ( at time 1.1099889E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.55800E-02-1.33772E-04 4.32360E-05-8.92650E-03-9.08674E-05-6.34946E-05-8.87482E-04 1.68769E-04-2.12450E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22403                              ( at time 1.1199879E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.06827E-03 3.98990E+00-3.71133E-01-9.38086E-04 1.42400E+00 3.31715E-01-4.11878E-03 1.28034E-01 3.09621E-01 4.66644E+00-2.42009E+01-4.53529E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22403                              ( at time 1.1199879E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.64785E-02-1.42945E-04 3.75769E-05-9.02189E-03-9.06264E-05-4.94305E-05-9.54004E-04 2.41011E-06 1.40655E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22603                              ( at time 1.1299869E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.95173E-03 4.13291E+00-3.36262E-01-1.59836E-03 1.43531E+00 3.64917E-01-6.60333E-03 1.13051E-01 3.32056E-01 4.66633E+00-2.40579E+01-4.53180E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22603                              ( at time 1.1299869E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.73856E-02-1.51907E-04 3.24182E-05-9.11307E-03-8.85532E-05-5.76885E-05-9.11858E-04 2.07336E-05-8.25874E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22803                              ( at time 1.1399859E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.82877E-03 4.27692E+00-2.98095E-01-7.97267E-04 1.44528E+00 3.98149E-01 8.01173E-03 9.97537E-02 3.32350E-01 4.66620E+00-2.39139E+01-4.52798E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   22803                              ( at time 1.1399859E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.83008E-02-1.60778E-04 2.62762E-05-9.18960E-03-7.72495E-05-6.08805E-05-7.65354E-04 1.13049E-04-3.19241E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23003                              ( at time 1.1499849E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.74040E-03 4.42195E+00-2.56613E-01-8.33796E-04 1.45609E+00 4.31922E-01-3.65328E-04 1.08046E-01 3.37760E-01 4.66612E+00-2.37689E+01-4.52383E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23003                              ( at time 1.1499849E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -2.92230E-02-1.67490E-04 2.17553E-05-9.24695E-03-6.33829E-05-4.62664E-05-5.73529E-04 1.38680E-04 1.46157E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23203                              ( at time 1.1599839E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.70984E-03 4.56789E+00-2.11791E-01-7.56662E-04 1.46391E+00 4.65997E-01 7.71420E-04 7.82330E-02 3.40789E-01 4.66608E+00-2.36229E+01-4.51935E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23203                              ( at time 1.1599839E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.01507E-02-1.74432E-04 1.69896E-05-9.29766E-03-8.63785E-05-4.65013E-05-5.07222E-04-2.29979E-04-2.34950E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23403                              ( at time 1.1699829E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.65472E-03 4.71462E+00-1.63550E-01 3.33058E-04 1.47165E+00 4.99740E-01 1.08983E-02 7.74521E-02 3.37466E-01 4.66603E+00-2.34762E+01-4.51453E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23403                              ( at time 1.1699829E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.10832E-02-1.82135E-04 1.25289E-05-9.34545E-03-6.08841E-05-3.64773E-05-4.77873E-04 2.54970E-04 1.00250E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23603                              ( at time 1.1799819E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.66917E-03 4.86212E+00-1.11870E-01 6.26795E-06 1.47877E+00 5.34169E-01-3.26823E-03 7.11835E-02 3.44318E-01 4.66604E+00-2.33287E+01-4.50936E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23603                              ( at time 1.1799819E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.20178E-02-1.86701E-04 8.62004E-06-9.36010E-03-3.81809E-05-3.52111E-05-1.46549E-04 2.27055E-04 1.26633E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23803                              ( at time 1.1899809E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.65116E-03 5.01025E+00-5.66570E-02-5.32726E-04 1.48446E+00 5.69692E-01-5.39048E-03 5.69032E-02 3.55274E-01 4.66603E+00-2.31806E+01-4.50384E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   23803                              ( at time 1.1899809E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.29537E-02-1.91324E-04 4.82595E-06-9.37438E-03-5.76243E-05-3.00590E-05-1.42814E-04-1.94453E-04 5.15266E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24003                              ( at time 1.1999799E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.67550E-03 5.15895E+00 2.11730E-03 8.08999E-04 1.48912E+00 6.05466E-01 1.34186E-02 4.66012E-02 3.57769E-01 4.66605E+00-2.30319E+01-4.49796E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24003                              ( at time 1.1999799E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.38908E-02-1.96939E-04 1.42181E-06-9.37952E-03-4.47404E-05-3.46550E-05-5.14235E-05 1.28852E-04-4.59647E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24203                              ( at time 1.2099789E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.71317E-03 5.30808E+00 6.44996E-02 8.35563E-05 1.49369E+00 6.42160E-01-7.25516E-03 4.57345E-02 3.66975E-01 4.66609E+00-2.28827E+01-4.49172E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24203                              ( at time 1.2099789E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.48280E-02-2.01092E-04-2.29032E-06-9.37181E-03-4.20794E-05-4.81929E-05 7.71679E-05 2.66126E-05-1.35393E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24403                              ( at time 1.2199779E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.77008E-03 5.45754E+00 1.30617E-01 5.65363E-04 1.49612E+00 6.80209E-01 4.81850E-03 2.42208E-02 3.80529E-01 4.66614E+00-2.27333E+01-4.48511E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24403                              ( at time 1.2199779E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.57637E-02-2.05733E-04-6.75600E-06-9.35604E-03-5.15944E-05-4.88632E-05 1.57669E-04-9.51586E-05-6.70337E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24603                              ( at time 1.2299769E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.86541E-03 5.60725E+00 2.00496E-01 1.48327E-03 1.49805E+00 7.17449E-01 9.18003E-03 1.93890E-02 3.72439E-01 4.66624E+00-2.25836E+01-4.47812E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24603                              ( at time 1.2299769E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.66987E-02-2.11672E-04-1.14842E-05-9.35116E-03-6.54534E-05-6.49833E-05 4.88249E-05-1.38604E-04-1.61217E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24803                              ( at time 1.2399759E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.01601E-03 5.75715E+00 2.74181E-01 1.02880E-03 1.49982E+00 7.55884E-01-4.54517E-03 1.76734E-02 3.84390E-01 4.66639E+00-2.24337E+01-4.47075E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   24803                              ( at time 1.2399759E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.76320E-02-2.17913E-04-1.71025E-05-9.32558E-03-6.20516E-05-6.93443E-05 2.55851E-04 3.40215E-05-4.36144E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25003                              ( at time 1.2499749E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.17278E-03 5.90711E+00 3.51703E-01 1.96657E-03 1.50040E+00 7.94450E-01 9.37865E-03 5.80131E-03 3.85700E-01 4.66655E+00-2.22837E+01-4.46300E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25003                              ( at time 1.2499749E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.85626E-02-2.24444E-04-2.33879E-05-9.30334E-03-6.87336E-05-6.84453E-05 2.22366E-04-6.68272E-05 8.99050E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25203                              ( at time 1.2599739E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.37851E-03 6.05714E+00 4.33152E-01 2.51785E-03 1.49982E+00 8.34819E-01 5.51331E-03-5.78820E-03 4.03728E-01 4.66675E+00-2.21337E+01-4.45486E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25203                              ( at time 1.2599739E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -3.94915E-02-2.31616E-04-2.93319E-05-9.29466E-03-7.23329E-05-6.44749E-05 8.68360E-05-3.59968E-05 3.97083E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25403                              ( at time 1.2699729E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.64281E-03 6.20705E+00 5.18713E-01 2.45499E-03 1.49888E+00 8.75683E-01-6.28664E-04-9.45425E-03 4.08676E-01 4.66702E+00-2.19838E+01-4.44630E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25403                              ( at time 1.2699729E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.04185E-02-2.38483E-04-3.57000E-05-9.26525E-03-8.02456E-05-7.12763E-05 2.94151E-04-7.91344E-05-6.80211E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25603                              ( at time 1.2799719E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.87081E-03 6.35684E+00 6.08246E-01 2.45737E-03 1.49712E+00 9.15134E-01 2.38536E-05-1.75685E-02 3.94550E-01 4.66725E+00-2.18340E+01-4.43735E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25603                              ( at time 1.2799719E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.13434E-02-2.46071E-04-4.27362E-05-9.24048E-03-7.14069E-05-6.22069E-05 2.47654E-04 8.83951E-05 9.07031E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25803                              ( at time 1.2899709E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  8.18086E-03 6.50641E+00 7.01820E-01 3.64286E-03 1.49457E+00 9.56565E-01 1.18561E-02-2.55181E-02 4.14353E-01 4.66756E+00-2.16844E+01-4.42799E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   25803                              ( at time 1.2899709E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.22665E-02-2.53562E-04-4.96057E-05-9.22722E-03-7.16097E-05-7.39256E-05 1.32643E-04-2.02809E-06-1.17199E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26003                              ( at time 1.2999699E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  8.51009E-03 6.65569E+00 7.99539E-01 2.40270E-03 1.49179E+00 9.97780E-01-1.24029E-02-2.78024E-02 4.12198E-01 4.66789E+00-2.15351E+01-4.41822E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26003                              ( at time 1.2999699E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.31890E-02-2.61310E-04-5.76140E-05-9.22263E-03-7.96101E-05-8.07034E-05 4.59282E-05-8.00116E-05-6.77849E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26203                              ( at time 1.3099689E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  8.79436E-03 6.80474E+00 9.01334E-01 2.98854E-03 1.48958E+00 1.03924E+00 5.85899E-03-2.20834E-02 4.14682E-01 4.66817E+00-2.13861E+01-4.40804E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26203                              ( at time 1.3099689E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.41104E-02-2.70199E-04-6.57107E-05-9.20055E-03-9.01410E-05-8.57854E-05 2.20811E-04-1.05319E-04-5.08254E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26403                              ( at time 1.3199679E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.07518E-03 6.95346E+00 1.00718E+00 2.83676E-03 1.48667E+00 1.07912E+00-1.51794E-03-2.90659E-02 3.98755E-01 4.66845E+00-2.12374E+01-4.39745E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26403                              ( at time 1.3199679E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.50295E-02-2.78841E-04-7.48017E-05-9.18555E-03-8.65968E-05-9.83886E-05 1.50050E-04 3.54444E-05-1.26043E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26603                              ( at time 1.3299669E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.43355E-03 7.10185E+00 1.11715E+00 3.34145E-03 1.48249E+00 1.12059E+00 5.04747E-03-4.18968E-02 4.14775E-01 4.66881E+00-2.10890E+01-4.38646E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26603                              ( at time 1.3299669E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.59482E-02-2.87300E-04-8.48479E-05-9.20537E-03-9.33233E-05-8.18896E-05-1.98289E-04-6.72710E-05 1.65007E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26803                              ( at time 1.3399659E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.73644E-03 7.24992E+00 1.23123E+00 3.56010E-03 1.47933E+00 1.16061E+00 2.18667E-03-3.15507E-02 4.00295E-01 4.66911E+00-2.09409E+01-4.37505E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   26803                              ( at time 1.3399659E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.68666E-02-2.97375E-04-9.48967E-05-9.20058E-03-9.58579E-05-1.02051E-04 4.79400E-05-2.53484E-05-2.01638E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27003                              ( at time 1.3499649E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.98064E-03 7.39753E+00 1.34942E+00 2.36962E-03 1.47482E+00 1.20269E+00-1.19060E-02-4.50990E-02 4.20823E-01 4.66936E+00-2.07933E+01-4.36323E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27003                              ( at time 1.3499649E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.77832E-02-3.08286E-04-1.06741E-04-9.17960E-03-1.01746E-04-1.29132E-04 2.09848E-04-5.88838E-05-2.70834E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27203                              ( at time 1.3599639E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.02879E-02 7.54483E+00 1.47165E+00 2.47357E-03 1.47110E+00 1.24264E+00 1.03954E-03-3.72281E-02 3.99529E-01 4.66966E+00-2.06460E+01-4.35101E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27203                              ( at time 1.3599639E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.86996E-02-3.17952E-04-1.19862E-04-9.17100E-03-1.03387E-04-1.19603E-04 8.59418E-05-1.64121E-05 9.53031E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27403                              ( at time 1.3699629E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.05219E-02 7.69163E+00 1.59795E+00 2.68261E-03 1.46691E+00 1.28328E+00 2.09065E-03-4.18562E-02 4.06465E-01 4.66990E+00-2.04992E+01-4.33838E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27403                              ( at time 1.3699629E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -4.96156E-02-3.30614E-04-1.34490E-04-9.16242E-03-1.33673E-04-1.57600E-04 8.58394E-05-3.02896E-04-3.80016E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27603                              ( at time 1.3799619E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.06833E-02 7.83809E+00 1.72817E+00 1.69160E-03 1.46343E+00 1.32194E+00-9.91115E-03-3.48389E-02 3.86601E-01 4.67006E+00-2.03527E+01-4.32535E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27603                              ( at time 1.3799619E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.05314E-02-3.44873E-04-1.51086E-04-9.14937E-03-1.33189E-04-1.70886E-04 1.30473E-04 4.84540E-06-1.32867E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27803                              ( at time 1.3899609E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.08826E-02 7.98416E+00 1.86229E+00 9.56082E-04 1.45980E+00 1.36079E+00-7.35588E-03-3.63208E-02 3.88488E-01 4.67026E+00-2.02067E+01-4.31194E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   27803                              ( at time 1.3899609E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.14462E-02-3.59081E-04-1.69568E-04-9.14967E-03-1.56091E-04-1.90524E-04-2.92465E-06-2.29049E-04-1.96403E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28003                              ( at time 1.3999599E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.10170E-02 8.12990E+00 2.00019E+00 1.17891E-03 1.45584E+00 1.39772E+00 2.22848E-03-3.95874E-02 3.69383E-01 4.67039E+00-2.00609E+01-4.29815E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28003                              ( at time 1.3999599E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.23602E-02-3.75167E-04-1.89918E-04-9.13848E-03-1.81727E-04-2.28660E-04 1.11826E-04-2.56387E-04-3.81401E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28203                              ( at time 1.4099589E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.10372E-02 8.27530E+00 2.14180E+00-3.32716E-04 1.45271E+00 1.43493E+00-1.51176E-02-3.12738E-02 3.72180E-01 4.67041E+00-1.99155E+01-4.28399E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28203                              ( at time 1.4099589E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.32740E-02-3.93997E-04-2.12837E-04-9.14036E-03-2.14102E-04-2.63910E-04-1.87213E-05-3.23773E-04-3.52533E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28403                              ( at time 1.4199579E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.10238E-02 8.42048E+00 2.28698E+00-2.81255E-04 1.45163E+00 1.46821E+00 5.14664E-04-1.08491E-02 3.32793E-01 4.67040E+00-1.97703E+01-4.26947E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28403                              ( at time 1.4199579E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.41881E-02-4.15044E-04-2.39411E-04-9.18064E-03-2.21380E-04-2.77339E-04-4.02894E-04-7.27944E-05-1.34304E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28603                              ( at time 1.4299569E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.09822E-02 8.56490E+00 2.43622E+00 2.60566E-04 1.43824E+00 1.51470E+00 5.41876E-03-1.33852E-01 4.64908E-01 4.67036E+00-1.96259E+01-4.25455E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28603                              ( at time 1.4299569E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.51041E-02-4.36560E-04-2.67063E-04-9.16895E-03-2.11592E-04-2.92706E-04 1.16949E-04 9.78955E-05-1.53685E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28803                              ( at time 1.4399559E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.08698E-02 8.70894E+00 2.58906E+00-2.44773E-03 1.44076E+00 1.54365E+00-2.70857E-02 2.51903E-02 2.89517E-01 4.67024E+00-1.94819E+01-4.23927E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   28803                              ( at time 1.4399559E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.60240E-02-4.59951E-04-2.97216E-04-9.18284E-03-2.59746E-04-3.37452E-04-1.38939E-04-4.81590E-04-4.47504E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29003                              ( at time 1.4499549E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.06216E-02 8.85236E+00 2.74544E+00-3.55666E-03 1.43012E+00 1.58794E+00-1.10905E-02-1.06413E-01 4.43036E-01 4.67000E+00-1.93385E+01-4.22363E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29003                              ( at time 1.4499549E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.69467E-02-4.85701E-04-3.30908E-04-9.19115E-03-2.67863E-04-3.49165E-04-8.30917E-05-8.11820E-05-1.17138E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29203                              ( at time 1.4599539E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.03453E-02 8.99511E+00 2.90568E+00-1.99645E-03 1.42617E+00 1.61868E+00 1.56038E-02-3.95195E-02 3.07400E-01 4.66972E+00-1.91957E+01-4.20760E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29203                              ( at time 1.4599539E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.78726E-02-5.11190E-04-3.65086E-04-9.22577E-03-2.59736E-04-3.67643E-04-3.46198E-04 8.12856E-05-1.84796E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29403                              ( at time 1.4699529E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  1.00035E-02 9.13744E+00 3.06922E+00-4.50221E-03 1.42185E+00 1.65590E+00-2.50602E-02-4.32463E-02 3.72270E-01 4.66938E+00-1.90534E+01-4.19125E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29403                              ( at time 1.4699529E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.88043E-02-5.37396E-04-4.00856E-04-9.34545E-03-2.59934E-04-3.62890E-04-1.19694E-03-1.98421E-06 4.75296E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29604                              ( at time 1.4800019E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.55146E-03 9.27993E+00 3.23738E+00-5.50256E-03 1.41278E+00 1.68838E+00-9.95459E-03-9.02588E-02 3.23176E-01 4.66893E+00-1.89109E+01-4.17443E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29604                              ( at time 1.4800019E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -5.97461E-02-5.64999E-04-4.38858E-04-9.39767E-03-2.96507E-04-3.87826E-04-5.19671E-04-3.63946E-04-2.48142E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29804                              ( at time 1.4900009E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  9.00944E-03 9.42115E+00 3.40794E+00-5.34082E-03 1.41076E+00 1.72077E+00 1.61748E-03-2.01448E-02 3.23936E-01 4.66838E+00-1.87697E+01-4.15738E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   29804                              ( at time 1.4900009E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.06885E-02-5.93806E-04-4.78984E-04-9.49320E-03-2.67870E-04-4.08705E-04-9.55382E-04 2.86404E-04-2.08812E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30004                              ( at time 1.4999999E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  8.40376E-03 9.56218E+00 3.58168E+00-6.66093E-03 1.40762E+00 1.75370E+00-1.32024E-02-3.14458E-02 3.29336E-01 4.66778E+00-1.86286E+01-4.14000E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30004                              ( at time 1.4999999E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.16411E-02-6.20559E-04-5.18739E-04-9.54494E-03-2.86253E-04-4.21715E-04-5.17449E-04-1.83851E-04-1.30108E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30204                              ( at time 1.5099989E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  7.73873E-03 9.70253E+00 3.75868E+00-7.88755E-03 1.40413E+00 1.78711E+00-1.22674E-02-3.48949E-02 3.34102E-01 4.66711E+00-1.84883E+01-4.12230E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30204                              ( at time 1.5099989E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.25988E-02-6.51419E-04-5.62233E-04-9.59736E-03-3.22595E-04-4.48494E-04-5.24239E-04-3.63460E-04-2.67820E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30404                              ( at time 1.5199979E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  6.85149E-03 9.84289E+00 3.93846E+00-8.98582E-03 1.40407E+00 1.81172E+00-1.09839E-02-5.98491E-04 2.46171E-01 4.66623E+00-1.83479E+01-4.10433E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30404                              ( at time 1.5199979E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.35679E-02-6.83258E-04-6.08157E-04-9.70939E-03-3.07716E-04-4.59649E-04-1.12046E-03 1.48806E-04-1.11568E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30604                              ( at time 1.5299969E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  5.94304E-03 9.98303E+00 4.12089E+00-9.56123E-03 1.40105E+00 1.83979E+00-5.75463E-03-3.01654E-02 2.80661E-01 4.66532E+00-1.82078E+01-4.08608E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30604                              ( at time 1.5299969E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.45443E-02-7.15184E-04-6.55035E-04-9.77087E-03-3.40501E-04-4.60643E-04-6.14838E-04-3.27888E-04-9.93414E-06
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30804                              ( at time 1.5399959E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  4.91417E-03 1.01231E+01 4.30610E+00-1.09806E-02 1.40166E+00 1.86426E+00-1.41953E-02 6.11367E-03 2.44721E-01 4.66429E+00-1.80678E+01-4.06756E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   30804                              ( at time 1.5399959E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.55283E-02-7.49091E-04-7.04401E-04-9.89047E-03-3.46372E-04-4.98503E-04-1.19610E-03-5.87098E-05-3.78641E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31004                              ( at time 1.5499949E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  3.66753E-03 1.02632E+01 4.49358E+00-1.27280E-02 1.40135E+00 1.88608E+00-1.74757E-02-3.14864E-03 2.18236E-01 4.66304E+00-1.79276E+01-4.04881E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31004                              ( at time 1.5499949E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.65237E-02-7.85028E-04-7.56033E-04-1.00034E-02-3.70851E-04-5.28695E-04-1.12961E-03-2.44814E-04-3.01951E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31204                              ( at time 1.5599939E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  2.32960E-03 1.04036E+01 4.68338E+00-1.39988E-02 1.40415E+00 1.90879E+00-1.27087E-02 2.80146E-02 2.27148E-01 4.66170E+00-1.77873E+01-4.02983E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31204                              ( at time 1.5599939E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.75283E-02-8.22368E-04-8.10227E-04-1.00888E-02-3.74749E-04-5.38648E-04-8.54184E-04-3.89815E-05-9.95423E-05
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31404                              ( at time 1.5699929E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626  8.64797E-04 1.05441E+01 4.87520E+00-1.54119E-02 1.40626E+00 1.92550E+00-1.41327E-02 2.11236E-02 1.67088E-01 4.66024E+00-1.76467E+01-4.01065E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31404                              ( at time 1.5699929E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.85406E-02-8.61474E-04-8.67268E-04-1.01801E-02-3.90647E-04-5.78578E-04-9.13301E-04-1.59004E-04-3.99334E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31604                              ( at time 1.5799919E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -9.15322E-04 1.06850E+01 5.06869E+00-1.89910E-02 1.41140E+00 1.94474E+00-3.57945E-02 5.13696E-02 1.92445E-01 4.65846E+00-1.75058E+01-3.99130E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31604                              ( at time 1.5799919E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -6.95650E-02-9.03812E-04-9.27958E-04-1.03062E-02-4.39675E-04-6.26577E-04-1.26034E-03-4.90324E-04-4.80039E-04
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31804                              ( at time 1.5899909E+01 )
+
+ nodal point  x-disp     y-disp      z-disp      x-vel       y-vel       z-vel      x-accl      y-accl      z-accl      x-coor      y-coor      z-coor
+    22626 -2.79112E-03 1.08263E+01 5.26406E+00-1.96991E-02 1.41582E+00 1.96146E+00-7.08182E-03 4.42538E-02 1.67238E-01 4.65658E+00-1.73645E+01-3.97177E+01
+
+
+
+ n o d a l   p r i n t   o u t   f o r   t i m e  s t e p   31804                              ( at time 1.5899909E+01 )
+
+ nodal point  x-rot      y-rot       z-rot       x-rot vel   y-rot vel   z-rot vel   x-rot acc   y-rot acc   z-rot acc
+    22626 -7.06004E-02-9.47098E-04-9.91021E-04-1.03770E-02-4.33660E-04-6.40884E-04-7.08808E-04 6.01567E-05-1.43080E-04
